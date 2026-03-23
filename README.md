@@ -3,7 +3,7 @@
 CINÉCLAIR is a sleek and responsive movie browsing app built with ReactJS and Redux, featuring seamless API integration, dynamic UI interactions with Framer Motion, and a modern, clean design powered by Tailwind CSS. Users can explore details about movies, actors, and TV shows, search for any title, and navigate through various sections like Trending, Popular, and more.
 
 ## 🌐 Live Demo
-Experience CINÉCLAIR live: [cineclair.netlify.app](https://cineclair.netlify.app/)
+Experience CINÉCLAIR live: [https://cineclair.rhythmdoshi.site](https://cineclair.rhythmdoshi.site/)
 
 ## 📌 Features
 - **🎥 Real-Time Movie Data**: Fetch live movie details using API integration.
