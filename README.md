@@ -4,8 +4,8 @@ CINÉCLAIR is a sleek and responsive movie browsing app built with ReactJS and R
 
 ## 🌐 Live Demo
 Experience CINÉCLAIR live: 
-- [https://cineclair.rhythmdoshi.site](https://cineclair.rhythmdoshi.site/)
-- [https://rhythmdoshi.site/project/cineclair](https://rhythmdoshi.site/project/cineclair)
+- [https://cineclair.rhythmdoshi.xyz](https://cineclair.rhythmdoshi.xyz/)
+- [https://rhythmdoshi.xyz/project/cineclair](https://rhythmdoshi.xyz/project/cineclair)
 
 ## 📌 Features
 - **🎥 Real-Time Movie Data**: Fetch live movie details using API integration.
